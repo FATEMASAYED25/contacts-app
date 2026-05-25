@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/contacts-app/static/media/arrow-back.c0c5c509.svg"
   },
   {
-    "revision": "1456a6be906dcfe7818c47b28b409501",
-    "url": "/contacts-app/static/media/person.1456a6be.svg"
-  },
-  {
     "revision": "0fc053ba9ccf6f9d63d45098678875bf",
     "url": "/contacts-app/static/media/search.0fc053ba.svg"
+  },
+  {
+    "revision": "1456a6be906dcfe7818c47b28b409501",
+    "url": "/contacts-app/static/media/person.1456a6be.svg"
   },
   {
     "revision": "c9c2fd159a339e59c77962878b1676bd",
