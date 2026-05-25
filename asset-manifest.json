@@ -1,14 +1,14 @@
 {
   "main.css": "/contacts-app/static/css/main.3bb4c30e.chunk.css",
-  "main.js": "/contacts-app/static/js/main.8755a3a5.chunk.js",
-  "main.js.map": "/contacts-app/static/js/main.8755a3a5.chunk.js.map",
-  "static/js/1.e76cdbe5.chunk.js": "/contacts-app/static/js/1.e76cdbe5.chunk.js",
-  "static/js/1.e76cdbe5.chunk.js.map": "/contacts-app/static/js/1.e76cdbe5.chunk.js.map",
+  "main.js": "/contacts-app/static/js/main.b14b895a.chunk.js",
+  "main.js.map": "/contacts-app/static/js/main.b14b895a.chunk.js.map",
+  "static/js/1.7f75162c.chunk.js": "/contacts-app/static/js/1.7f75162c.chunk.js",
+  "static/js/1.7f75162c.chunk.js.map": "/contacts-app/static/js/1.7f75162c.chunk.js.map",
   "runtime~main.js": "/contacts-app/static/js/runtime~main.5752e206.js",
   "runtime~main.js.map": "/contacts-app/static/js/runtime~main.5752e206.js.map",
-  "static/media/index.css": "/contacts-app/static/media/person-add.c9c2fd15.svg",
+  "static/media/index.css": "/contacts-app/static/media/cancel.576f26ff.svg",
   "static/css/main.3bb4c30e.chunk.css.map": "/contacts-app/static/css/main.3bb4c30e.chunk.css.map",
   "index.html": "/contacts-app/index.html",
-  "precache-manifest.51b5521b5719e9f0a0734193697a13d6.js": "/contacts-app/precache-manifest.51b5521b5719e9f0a0734193697a13d6.js",
+  "precache-manifest.219ba5ac193d0f08d5c6408fc2672452.js": "/contacts-app/precache-manifest.219ba5ac193d0f08d5c6408fc2672452.js",
   "service-worker.js": "/contacts-app/service-worker.js"
 }
