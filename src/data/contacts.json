@@ -1,0 +1,20 @@
+[
+      {
+        "id": "karen",
+        "name": "Karen Isgrigg",
+        "handle": "52233596",
+        "avatarURL": "/imgs/1.png"
+      },
+      {
+        "id": "richard",
+        "name": "Richard Kalehoff",
+        "handle": "852426",
+        "avatarURL": "/imgs/3.png"
+      },
+      {
+        "id": "tyler",
+        "name": "Tyler McGinnis",
+        "handle": "88524236",
+        "avatarURL": "/imgs/4.png"
+      }
+     ]

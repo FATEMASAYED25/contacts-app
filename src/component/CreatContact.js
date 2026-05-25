@@ -1,9 +1,8 @@
 import React, { Component } from 'react'
 import{Link} from 'react-router-dom';
 import ImageInput from './ImageInput';
-import * as ContactsAPI from './utils/ContactsAPI';
 import serialize from 'form-serialize'
-class creatContact extends Component {
+class CreatContact extends Component {
     
  
 
@@ -11,16 +10,18 @@ class creatContact extends Component {
         e.preventDefault();
         const values= serialize(e.target , {hash:true})
 
-        if(this.props. onCreateContact){
-            this.props. onCreateContact(values)
+        if(this.props.onCreateContact){
+            this.props.onCreateContact(values)
         }
     }
     render() {
         return (
             <div>
                 <Link to="/"
-                      className='close-create-contact'
-            />
+                className="close-create-contact"
+                > 
+                close
+                </Link>
             <form onSubmit={this.submitForm} className='create-contact-form'>
 
             <ImageInput 
@@ -41,4 +42,4 @@ class creatContact extends Component {
     }
 }
 
-export default creatContact;
+export default CreatContact;

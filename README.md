@@ -5,6 +5,9 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 Most of the commits in this repository correspond to videos in the program.
 
 ## Project Setup
+* backend development:
+ i use Fake Database with json-server so you have to install json-server backage
+ npm install -g json-server 
 
 * clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
 * install the dependencies - `npm install`
