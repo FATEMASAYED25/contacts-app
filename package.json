@@ -2,7 +2,7 @@
   "name": "contacts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fatemasayed.github.io/contacts-app",
+  "homepage": "https://fatemasayed.github.io/contacts-app/",
   "dependencies": {
     "escape-string-regexp": "^5.0.0",
     "form-serialize": "^0.7.2",
