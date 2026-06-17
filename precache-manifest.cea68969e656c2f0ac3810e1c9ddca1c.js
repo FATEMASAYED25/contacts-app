@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "331b8c3aae68d565f3bd",
+    "revision": "c73f2cce57a181776c36",
     "url": "/contacts-app/static/css/main.3bb4c30e.chunk.css"
   },
   {
-    "revision": "331b8c3aae68d565f3bd",
-    "url": "/contacts-app/static/js/main.331b8c3a.chunk.js"
+    "revision": "c73f2cce57a181776c36",
+    "url": "/contacts-app/static/js/main.c73f2cce.chunk.js"
   },
   {
     "revision": "7f75162c5a6594f67cc8",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/contacts-app/static/media/person.1456a6be.svg"
   },
   {
+    "revision": "c0c5c509a7483ce0b8c11ca04f3633f1",
+    "url": "/contacts-app/static/media/arrow-back.c0c5c509.svg"
+  },
+  {
     "revision": "c9c2fd159a339e59c77962878b1676bd",
     "url": "/contacts-app/static/media/person-add.c9c2fd15.svg"
   },
@@ -28,15 +32,11 @@ self.__precacheManifest = [
     "url": "/contacts-app/static/media/search.0fc053ba.svg"
   },
   {
-    "revision": "c0c5c509a7483ce0b8c11ca04f3633f1",
-    "url": "/contacts-app/static/media/arrow-back.c0c5c509.svg"
-  },
-  {
     "revision": "576f26ff09a3275d9da0621e6b34898d",
     "url": "/contacts-app/static/media/cancel.576f26ff.svg"
   },
   {
-    "revision": "2a87b4755f518374dcefa244b0aaa1fb",
+    "revision": "b2541407aeb69a43fbaa578e5fe95b50",
     "url": "/contacts-app/index.html"
   }
 ];
